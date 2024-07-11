@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "213678529677",
+    "project_id": "myapp-55b6d",
+    "storage_bucket": "myapp-55b6d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213678529677:android:63e0aacb32ee90b8b8d6c4",
+        "android_client_info": {
+          "package_name": "com.nareshptt.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUJ0XGBJc8GdrGxmaBn0PjnqmGf3MIeso"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
